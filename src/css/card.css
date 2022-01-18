@@ -1,0 +1,93 @@
+
+
+
+.card{
+    float: left;
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.card-header{
+    height: 20px;
+}
+
+.shoe-name{
+    font-family: Outfit;
+    text-align: left;
+    margin-left: 15px;
+    color: gray;
+}
+
+.brand-name{
+    font-family: Outfit;
+    font-weight: 900;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: -10px;
+    
+}
+
+
+.card-image{
+    width: 100%;
+    height: 250px;
+    background-color: white;
+}
+
+.shoe-image{
+    margin-top: 30px;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+
+.price{
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: Outfit;
+}
+
+.price-text{
+    color: rgb(180, 181, 182);
+    font-size: 15px;
+    text-align: left;
+}
+
+.price-number{
+    font-weight: 900;
+
+}
+
+.image-switch{
+    /* height: 150px; */
+    /* background-color: aqua; */
+    width: 60%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+    
+}
+
+.images{
+    float: left;
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+}
+
+
+.shoe-image-selection{
+    height: 80%;
+    width: 90%;
+    margin-top: 5px;
+}
